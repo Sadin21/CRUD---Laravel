@@ -10,10 +10,6 @@
                     <div class="card-body">
                         {{-- tambah data --}}
                         <a href="{{ route('create') }}" class="btn btn-md btn-success mb-3">TAMBAH DATA</a>
-
-                        {{-- input file  --}}
-                        <a href="{{ route('input') }}" class="btn btn-md btn-success mb-3">Input Image</a>
-
                         <table class="table table-bordered">
                             <thead>
                               <tr>
